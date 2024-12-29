@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "988695888173",
+    "firebase_url": "https://attendance-system-4bc37-default-rtdb.firebaseio.com",
+    "project_id": "attendance-system-4bc37",
+    "storage_bucket": "attendance-system-4bc37.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:988695888173:android:6dfb5a9ab175ccd27dd3a4",
+        "android_client_info": {
+          "package_name": "com.example.attendance_system"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsikfgBNFjIb7Xy4gqOIJ5mkEwKISmH9I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
